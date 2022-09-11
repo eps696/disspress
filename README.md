@@ -2,7 +2,7 @@
 
 <p align='center'><img src='assets/atmospirational_craftiand_antipocalypse_europlasticial_art.jpg' /></p>
 
-This is quick realisation of the famous [Dissociated Press](https://en.wikipedia.org/wiki/Dissociated_press) algorythm - known from 70s, popular from 80s, and based on the simple Markov chain concept. In general, the algo can process any symbolic sequences (e.g. MIDI files), yet this code works only with plain texts.  
+This is quick realisation of the famous [Dissociated Press](https://en.wikipedia.org/wiki/Dissociated_press) algorithm - known from 70s, popular from 80s, and based on the simple Markov chain concept. In theory, the algo can process any symbolic sequences (e.g. MIDI files), yet this code works only with plain texts.  
 
 As the recent influx of the text-to-image toolkits has brought significant attention to the sole text processing, such small tools may face a new life as well. The image above depicts "atmospirational craftiand antipocalypse europlasticial art", written by DissPress, visualized by StableDiffusion. 
 
@@ -22,4 +22,4 @@ The result is heavily affected by the parameters `--chunk` (the length of the co
 
 ### Misc
 
-For the archiving reasons there are also old versions of this algo on Perl (unsupported) and [vvvv beta](https://vvvv.org/). 
+For the archiving reasons there are also old versions of this algo on Perl (by @jsn, unsupported) and [vvvv beta](https://vvvv.org/). 
